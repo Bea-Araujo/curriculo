@@ -1,0 +1,81 @@
+Header
+    p - nome
+    nav
+        contato
+        habilidades
+        experiências
+        projetos
+
+Main
+    section - quem sou
+        img 
+        H1 - nome
+        small - ocupação
+        img - representacao
+
+    section - contato
+        h2 - contato
+        div
+            p - email
+            p - telefone
+            p - github
+            p - linkedin
+
+    section - habilidades
+        p - html
+        loading bar
+        p - css
+        loading bar
+        p - js
+        loading bar
+        p - typescript
+        loading bar
+        p - python
+        loading bar
+
+    
+    section - experiencias
+        section - formacao
+            div formacao 1
+                img - imagem ilustrativa
+                p - curso
+                small - onde e quando
+            div formacao 2
+                img - imagem ilustrativa
+                p - curso
+                small - onde e quando
+                
+        section - projetos
+            div projeto 1 - Dextrin
+                img - imagem ilustrativa
+                p - titulo do projeto
+                p - breve descricao do projeto
+                a - link github (se tiver)
+                div tecnologias
+                    img da tech
+
+            div projeto 2 - metagenoma classifier
+                img - imagem ilustrativa
+                p - titulo do projeto
+                p - breve descricao do projeto
+                a - link github (se tiver)
+                div tecnologias
+                    img da tech
+            
+            div projeto 3 - semana react
+                img - imagem ilustrativa
+                p - titulo do projeto
+                p - breve descricao do projeto
+                a - link github (se tiver)
+                div tecnologias
+                    img da tech
+
+            div projeto 4 - modelo curriculo
+                img - imagem ilustrativa
+                p - titulo do projeto
+                p - breve descricao do projeto
+                a - link github (se tiver)
+                div tecnologias
+                    img da tech
+    
+Footer

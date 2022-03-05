@@ -1,0 +1,26 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+html, body{
+    height: 100%;
+    width: 100%;
+}
+
+#root {
+    --bg-color: #101010;
+    --bg-accent-color: #333333;
+    --bg-accent-color-2: rgb(121, 233, 190);
+    --contrast-color: #333;
+    --cor-principal: rgb(12, 236, 150);
+    --cor-principal-escura: rgb(189, 18, 18);
+    --cor-principal-clara: rgb(241, 59, 59);
+    --cor-secundaria: grey;
+    --text: rgb(209, 209, 209);
+    --text-accent-color: #333;
+}
+
+img {
+    width: 25%;
+}
